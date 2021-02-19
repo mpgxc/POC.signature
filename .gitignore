@@ -1,0 +1,8 @@
+env/
+.env
+__pycache__/
+*.pyc
+*.pdf
+settings.json
+.ipynb_checkpoints/
+*-checkpoint.png
